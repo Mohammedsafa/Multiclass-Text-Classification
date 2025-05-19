@@ -1,6 +1,6 @@
 # 🧠 Multiclass Text Classification with Transformers and Pretrained Embeddings
 
-A deep learning project for classifying Arabic/English news articles into five categories: **Politics**, **Sports**, **Media**, **Market & Economy**, and **STEM**. This project investigates the impact of different embedding techniques, model architectures, and regularization strategies on classification performance.
+A deep learning project for classifying English news articles into five categories: **Politics**, **Sports**, **Media**, **Market & Economy**, and **STEM**. This project investigates the impact of different embedding techniques, model architectures, and regularization strategies on classification performance.
 
 ---
 
